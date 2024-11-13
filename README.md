@@ -12,7 +12,7 @@ Desenvolvedor front-end atualmente focado em React, TypeScript e Tailwind. Const
 - Estudando novas práticas de front-end com foco em UX e UI.
 
 ### 🛠️ Projetos Recentes
-- **[Portfolio Pessoal](https://matheuscorrea.vercel.app):** Breve descrição do projeto.
+- **[Portfolio Pessoal](https://matheuscorrea.vercel.app)
 
 ### 💬 Fale comigo
 - **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/mtcorrea)
